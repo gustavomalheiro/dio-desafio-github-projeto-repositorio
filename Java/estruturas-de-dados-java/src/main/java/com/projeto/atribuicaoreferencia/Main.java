@@ -18,6 +18,6 @@ public class Main {
 
         System.out.println("objA= " + objA + " objB= " + objB);
         objA.setNum(2); // modifica o valor em intB
-        System.out.println("objA= " + objA + " objB= " + objB); 
+        System.out.println("objA= " + objA + " objB= " + objB);
     }
 }
